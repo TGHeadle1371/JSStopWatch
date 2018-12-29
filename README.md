@@ -9,4 +9,4 @@ Made with HTML, CSS, and JavaScript
 
 
 Click here to try
-https://tgheadle1371.github.io/JSStopWatch/
+https://tgheadle1371.github.io/JSStopWatch/stopwatch.html
